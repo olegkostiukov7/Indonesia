@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans',
+    sans-serif;
+    position: relative;
+    width: 1920px;
+    height: 5448px;
+    overflow-y: scroll;
+    background-color: white;
+}
+
+img.icon {
+    background-color: black;
+}
+
+
+a {
+    text-decoration: none;
+    list-style: none;
+}

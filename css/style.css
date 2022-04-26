@@ -16,12 +16,11 @@ h1, h2, h3, p, li, a {
 }
 
 .landscape {
-    
+    position: absolute;
     width: 1920px;
     height: 1200px;
     left: 0px;
     top: 0px;
-    background: linear-gradient(330.24deg, rgba(0, 0, 0, 0) 31.06%, #000000 108.93%);
 }
 
 .logo {
@@ -57,6 +56,30 @@ h1, h2, h3, p, li, a {
     font-weight: 600;
     font-size: 18px;
     line-height: 25px;
+}
+
+.culture {
+    position: absolute;
+    width: 65px;
+    height: 25px;
+    top: 66px;
+    right: 785px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+input {
+    outline: none;
+    background-color: transparent;
+   
+}
+
+.search {
+    position: absolute;
+    right: 84px;
+    top: 64px;
 }
 
 
